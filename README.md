@@ -48,7 +48,7 @@ This portfolio emphasizes clean design, smooth animations, and a minimal layout 
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/portfolio-site.git
+git clone https://github.com/innaesim/portfolio.git
 
 # Navigate to project folder
 cd portfolio
@@ -82,7 +82,7 @@ npm run build
 
 ## 📬 Contact
 
-* **Portfolio:** [https://ronanwasman.com]
+* **Portfolio:** [https://innaesim.com]
 * **Email:** [mailto:duncankachasu@gmail.com]
 * **LinkedIn:** [https://linkedin.com/in/duncankachasu]
 * **GitHub:** [https://github.com/duncanjohanne]
