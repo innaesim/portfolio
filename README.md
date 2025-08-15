@@ -1,6 +1,4 @@
 ---
-
-````
 # Portfolio Site
 
 A sleek, responsive portfolio website with **dark and light themes** designed to showcase my skills, projects, and professional background in an engaging, modern way.  
