@@ -1,7 +1,7 @@
 ---
 # Portfolio Site
 
-A sleek, responsive portfolio website with **dark and light themes** designed to showcase my skills, projects, and professional background in an engaging, modern way.  
+A sleek, responsive portfolio website with **dark and light themes** designed to showcase skills, projects, and professional background in an engaging, modern way.  
 This portfolio emphasizes clean design, smooth animations, and a minimal layout to attract and retain viewers’ attention.
 
 ---
@@ -82,10 +82,10 @@ npm run build
 
 ## 📬 Contact
 
-* **Portfolio:** [your-portfolio-link](https://ronanwasman.com)
-* **Email:** [youremail@example.com](mailto:duncankachasu@gmail.com)
-* **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/duncankachasu)
-* **GitHub:** [Your GitHub](https://github.com/duncanjohanne)
+* **Portfolio:** [https://ronanwasman.com]
+* **Email:** [mailto:duncankachasu@gmail.com]
+* **LinkedIn:** [https://linkedin.com/in/duncankachasu]
+* **GitHub:** [https://github.com/duncanjohanne]
 
 ---
 
