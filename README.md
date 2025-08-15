@@ -85,7 +85,7 @@ npm run build
 - **Portfolio:** [Link](https://portfolio.innaesim.com)  
 - **Email:** [duncankachasu@gmail.com](mailto:duncankachasu@gmail.com)
 - **LinkedIn:** [LinkedIn](https://linkedin.com/in/yourprofile)  
-- **GitHub:** [GitHub](https://github.com/your-username)  
+- **GitHub:** [GitHub](https://github.com/duncanjohanne)  
 
 ---
 
