@@ -82,10 +82,10 @@ npm run build
 
 ## 📬 Contact
 
-* **Portfolio:** [https://innaesim.com]
-* **Email:** [mailto:duncankachasu@gmail.com]
-* **LinkedIn:** [https://linkedin.com/in/duncankachasu]
-* **GitHub:** [https://github.com/duncanjohanne]
+- **Portfolio:** [Link](https://portfolio.innaesim.com)  
+- **Email:** [Email](duncankachasu@gmail.com)
+- **LinkedIn:** [LinkedIn](https://linkedin.com/in/yourprofile)  
+- **GitHub:** [GitHub](https://github.com/your-username)  
 
 ---
 
