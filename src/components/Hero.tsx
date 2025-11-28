@@ -80,6 +80,7 @@ export function Hero() {
               href="https://github.com/duncanjohanne"
               target="_blank"
               rel="noopener noreferrer"
+              aria-label="GitHub profile"
               className="text-muted-foreground hover:text-primary transition-colors duration-300 hover-scale"
             >
               <svg
@@ -87,8 +88,8 @@ export function Hero() {
                 fill={siGithub.hex}
                 width="32"
                 height="32"
+                aria-hidden="true"
               >
-                <title>GitHub</title>
                 <path d={siGithub.path} />
               </svg>
             </a>
@@ -96,6 +97,7 @@ export function Hero() {
               href="https://linkedin.com/in/duncankachasu"
               target="_blank"
               rel="noopener noreferrer"
+              aria-label="LinkedIn profile"
               className="text-muted-foreground hover:text-primary transition-colors duration-300 hover-scale"
             >
               <svg
@@ -103,13 +105,14 @@ export function Hero() {
                 fill={siGitconnected.hex}
                 width="32"
                 height="32"
+                aria-hidden="true"
               >
-                <title>LinkedIn</title>
                 <path d={siGitconnected.path} />
               </svg>
             </a>
             <a
               href="mailto:duncankachasu@gmail.com"
+              aria-label="Send email to Duncan"
               className="text-muted-foreground hover:text-primary transition-colors duration-300 hover-scale"
             >
               <svg
@@ -117,8 +120,8 @@ export function Hero() {
                 fill={siMaildotru.hex}
                 width="32"
                 height="32"
+                aria-hidden="true"
               >
-                <title>Email</title>
                 <path d={siMaildotru.path} />
               </svg>
             </a>

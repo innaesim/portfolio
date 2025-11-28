@@ -174,8 +174,8 @@ It is designed to run on Linux/MacOS system with a Java Runtime Environment (JRE
                               fill={siGithub.hex}
                               width="32"
                               height="32"
+                              aria-hidden="true"
                             >
-                              <title>${siGithub.title}</title>
                               <path d={siGithub.path} />
                             </svg>
                           </a>
