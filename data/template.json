@@ -1,0 +1,168 @@
+{
+  "personal": {
+    "name": "Alex Chen",
+    "title": "Full Stack Developer",
+    "tagline": "Building elegant solutions to complex problems",
+    "email": "hello@alexchen.dev",
+    "location": "San Francisco, CA",
+    "avatar": "/images/avatar.svg",
+    "resume": "/files/resume.pdf",
+    "social": {
+      "github": "https://github.com/alexchen",
+      "linkedin": "https://linkedin.com/in/alexchen",
+      "twitter": "https://twitter.com/alexchen"
+    }
+  },
+  "about": {
+    "summary": "I'm a passionate full-stack developer with over 5 years of experience crafting digital experiences. I specialize in building modern web applications using React, Next.js, and Node.js. My approach combines clean code principles with user-centered design to create products that are both technically sound and delightful to use.",
+    "highlights": [
+      "Led development of a fintech platform serving 100K+ users",
+      "Open source contributor with 2K+ GitHub stars",
+      "Speaker at React conferences and tech meetups",
+      "Passionate about mentoring junior developers"
+    ]
+  },
+  "experience": [
+    {
+      "company": "TechCorp Inc.",
+      "role": "Senior Full Stack Developer",
+      "period": "Jan 2022 - Present",
+      "location": "San Francisco, CA",
+      "description": "Leading the frontend architecture team and driving technical decisions for our flagship product.",
+      "achievements": [
+        "Architected and implemented a micro-frontend system reducing deployment time by 60%",
+        "Led migration from legacy jQuery to React, improving page load times by 40%",
+        "Mentored a team of 5 junior developers through code reviews and pair programming"
+      ],
+      "technologies": ["React", "Next.js", "TypeScript", "Node.js", "PostgreSQL", "AWS"]
+    },
+    {
+      "company": "StartupXYZ",
+      "role": "Full Stack Developer",
+      "period": "Jun 2019 - Dec 2021",
+      "location": "San Francisco, CA",
+      "description": "Core team member responsible for building and scaling the main product from MVP to production.",
+      "achievements": [
+        "Built real-time collaboration features handling 10K concurrent users",
+        "Implemented CI/CD pipelines reducing release cycle from weeks to days",
+        "Developed RESTful APIs serving 1M+ daily requests"
+      ],
+      "technologies": ["React", "Node.js", "MongoDB", "Redis", "Docker", "GCP"]
+    },
+    {
+      "company": "Digital Agency Co.",
+      "role": "Frontend Developer",
+      "period": "Aug 2017 - May 2019",
+      "location": "New York, NY",
+      "description": "Developed responsive web applications for various clients across industries.",
+      "achievements": [
+        "Delivered 20+ client projects on time and within budget",
+        "Introduced modern frontend tooling increasing team productivity by 30%",
+        "Created reusable component library used across all agency projects"
+      ],
+      "technologies": ["JavaScript", "React", "Vue.js", "SASS", "Webpack"]
+    }
+  ],
+  "projects": [
+    {
+      "title": "TaskFlow",
+      "slug": "taskflow",
+      "description": "A modern project management tool with real-time collaboration",
+      "longDescription": "TaskFlow is a comprehensive project management solution designed for modern teams. It features real-time collaboration, customizable workflows, and powerful analytics. Built with a focus on user experience, it helps teams stay organized and productive.\n\nKey features include drag-and-drop task management, real-time updates via WebSockets, team chat integration, and detailed project analytics with customizable dashboards.",
+      "image": "/images/projects/taskflow.svg",
+      "technologies": ["Next.js", "TypeScript", "Prisma", "PostgreSQL", "WebSocket"],
+      "liveUrl": "https://taskflow.demo.com",
+      "githubUrl": "https://github.com/alexchen/taskflow",
+      "featured": true,
+      "year": "2024"
+    },
+    {
+      "title": "DevBlog",
+      "slug": "devblog",
+      "description": "A minimalist blogging platform for developers",
+      "longDescription": "DevBlog is a clean, fast blogging platform specifically designed for developers. It supports MDX for interactive code examples, has built-in syntax highlighting, and offers SEO optimization out of the box.\n\nThe platform includes features like draft mode, scheduled publishing, analytics dashboard, and integration with popular developer tools.",
+      "image": "/images/projects/devblog.svg",
+      "technologies": ["Next.js", "MDX", "Tailwind CSS", "Vercel"],
+      "liveUrl": "https://devblog.demo.com",
+      "githubUrl": "https://github.com/alexchen/devblog",
+      "featured": true,
+      "year": "2023"
+    },
+    {
+      "title": "CryptoTracker",
+      "slug": "cryptotracker",
+      "description": "Real-time cryptocurrency portfolio tracker",
+      "longDescription": "CryptoTracker provides real-time portfolio tracking for cryptocurrency investors. Features include price alerts, portfolio analytics, and multi-exchange support.\n\nThe app fetches live data from multiple exchanges, calculates portfolio performance, and provides actionable insights through an intuitive dashboard.",
+      "image": "/images/projects/cryptotracker.svg",
+      "technologies": ["React", "Node.js", "Redis", "Chart.js", "WebSocket"],
+      "liveUrl": "https://cryptotracker.demo.com",
+      "githubUrl": "https://github.com/alexchen/cryptotracker",
+      "featured": true,
+      "year": "2023"
+    },
+    {
+      "title": "WeatherNow",
+      "slug": "weathernow",
+      "description": "Beautiful weather app with detailed forecasts",
+      "longDescription": "WeatherNow is a beautifully designed weather application that provides detailed forecasts, severe weather alerts, and historical weather data.\n\nFeatures include hourly and weekly forecasts, radar maps, air quality index, and customizable widgets for your home screen.",
+      "image": "/images/projects/weathernow.svg",
+      "technologies": ["React Native", "TypeScript", "OpenWeather API"],
+      "liveUrl": "https://weathernow.demo.com",
+      "featured": false,
+      "year": "2022"
+    }
+  ],
+  "skills": {
+    "languages": ["JavaScript", "TypeScript", "Python", "Go", "SQL"],
+    "frameworks": ["React", "Next.js", "Node.js", "Express", "NestJS", "FastAPI"],
+    "tools": ["Git", "Docker", "Kubernetes", "AWS", "GCP", "PostgreSQL", "MongoDB", "Redis"],
+    "other": ["System Design", "CI/CD", "Agile/Scrum", "Technical Writing", "Mentoring"]
+  },
+  "education": [
+    {
+      "institution": "University of California, Berkeley",
+      "degree": "Bachelor of Science",
+      "field": "Computer Science",
+      "period": "2013 - 2017",
+      "achievements": [
+        "Graduated with Honors (GPA: 3.8)",
+        "Teaching Assistant for Data Structures course",
+        "Winner of HackBerkeley 2016"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "issuer": "Amazon Web Services",
+      "date": "2023",
+      "url": "https://aws.amazon.com/verification"
+    },
+    {
+      "name": "Google Cloud Professional Developer",
+      "issuer": "Google Cloud",
+      "date": "2022",
+      "url": "https://cloud.google.com/certification"
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "Alex is one of the most talented developers I've worked with. His ability to tackle complex problems while maintaining clean, readable code is remarkable.",
+      "author": "Sarah Johnson",
+      "role": "Engineering Manager",
+      "company": "TechCorp Inc."
+    },
+    {
+      "quote": "Working with Alex was a game-changer for our project. He brought not just technical expertise but also great communication skills and a collaborative spirit.",
+      "author": "Michael Chen",
+      "role": "Product Manager",
+      "company": "StartupXYZ"
+    },
+    {
+      "quote": "Alex's dedication to code quality and best practices elevated our entire team's standards. A true professional who leads by example.",
+      "author": "Emily Rodriguez",
+      "role": "Senior Developer",
+      "company": "Digital Agency Co."
+    }
+  ]
+}
